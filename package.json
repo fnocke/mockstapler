@@ -1,0 +1,15 @@
+{
+  "name": "mockstapler",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "d:\\documents\\gitROOT\\mockstapler.git"
+  },
+  "author": "fnocke",
+  "license": "CLOSED"
+}
