@@ -1,0 +1,26 @@
+### .gitignore ##############
+
+# OS X ------------
+.DS_Store*
+Icon?
+._*
+
+# Windows ---------
+Thumbs.db
+Desktop.ini
+nbproject
+.picasa.ini
+
+# npm -------------
+node_modules
+bower_components
+
+*.log
+*.gz
+
+# netbeans --------
+/nbproject
+
+# own -------------
+REF_*
+PREP/*
